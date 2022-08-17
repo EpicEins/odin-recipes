@@ -1,5 +1,29 @@
+/* CSS Foundations 1 */
 #external {
     background-color: red;
     color: white;
     font-weight: bold;
 }
+/* CSS Foundations 1 */
+
+/* CSS Foundations 2 */
+#CSS2Num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#CSS2Num3 {
+    font-size: 24px;
+}
+
+#CSS2Num4 {
+    font-size: 24px;
+    font-style: bold;
+    background-color: lightgreen;
+}
+
+.CSS2Class {
+    background-color: rgb(231, 121, 121);
+    font-family: Verdana, sans-serif;
+}
+/* CSS Foundations 2 */
