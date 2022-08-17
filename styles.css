@@ -27,3 +27,21 @@
     font-family: Verdana, sans-serif;
 }
 /* CSS Foundations 2 */
+
+/* CSS Foundations 3 */
+.CSS3B1,
+.CSS3B2{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.CSS3B1{
+    background-color: black;
+    color: white;
+}
+
+.CSS3B2{
+    background-color: yellow;
+}
+
+/* CSS Foundations 3 */
